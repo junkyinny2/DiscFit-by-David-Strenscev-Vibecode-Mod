@@ -63,6 +63,28 @@ By right-clicking anywhere inside a generated Disc Set, you can access powerful 
 *   **Feature: Context Menus:** Added right-click context menus to the dynamically generated ListView controls for Disc Sets and the Oversized list.
 *   **Feature: Export to CDBurnerXP:** Added the foundational "Export to CDBurnerXP (.dxp)" functionality.
 *   **Bug Fix: Folder Drag-and-Drop:** Fixed a critical flaw where dragging a large folder into the application treated the entire folder as a single, indivisible object. Folders are now correctly recursively scanned, and their individual files are extracted and added to the list for proper mathematical bin packing.
+
+
+Summary
+
+**Rebranding & UI**
+* The project was renamed from "BinPacking" to "DiscFit" (v1.5).
+* A modern, flat UI design was implemented (v1.5), replacing outdated 3D borders, and a system-native Windows 11 Dark Mode theme was added (v1.6).
+* The application title was centered natively (v1.6), and a dynamic Status Bar was added to calculate and display the total byte size of the selected disc tab (v1.5).
+* ToolTips were added to generated disc tabs to show exact byte sizes (v1.5).
+
+**Core Algorithm & Performance**
+* The core 'Best-Fit' bin packing algorithm was completely rewritten from a slow $O(N^2)$ process to a high-speed $O(N)$ linear iteration, allowing it to process over 50,000 files virtually instantaneously (v1.6).
+* Fixed integer underflow bugs that crashed the app during massive file operations (v1.6) and resolved icon crashes for missing files or long paths (v1.2).
+
+**Exporting & File Operations**
+* Added the ability to export disc sets to CDBurnerXP (`.dxp`) (v1.2), and rewrote the exporter to perfectly reconstruct original XML directory structures (v1.3).
+* Added "Copy Set to Folder" to recreate folder structures in a destination directory (v1.4) which was later upgraded to use the native Windows File Operation UI with progress Dialogs (v1.7).
+* Added the ability to export lists of files to raw `.txt` files (v1.4).
+* Fixed folder drag-and-drop to properly unpack files inside folders recursively (v1.2).
+
+**Compilation**
+* The application is now published as a framework-dependent single-file executable with embedded debug symbols for easier distribution (v1.7).
 *   **Bug Fix: UI Path Display:** Fixed variable scoping bugs that caused the "Path" column in the ListViews to incorrectly display only the file name or drop the path entirely. 
 *   **Bug Fix: Icon Crash:** Resolved an unhandled `ArgumentException` crash that occurred when `SHGetFileInfo` failed to return a valid icon handle for certain files (e.g., missing files or paths that are too long). Implemented a system fallback icon to prevent crashes.
 
