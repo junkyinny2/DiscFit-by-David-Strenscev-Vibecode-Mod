@@ -1,3 +1,6 @@
+<img width="1578" height="476" alt="image" src="https://github.com/user-attachments/assets/6e90dbc9-8f5c-4bcb-b46b-e892d12da5eb" />
+
+
 # DiscFit - Feature Log
 
 DiscFit is a lightweight, modern Windows desktop application designed to solve the "Bin Packing" problem for physical storage media (CDs, DVDs, Blu-rays). It calculates how to optimally distribute a massive list of files across multiple discs to minimize wasted space.
@@ -57,4 +60,4 @@ By right-clicking anywhere inside a generated Disc Set, you can access powerful 
 *   **Bug Fix: Folder Drag-and-Drop:** Fixed a critical flaw where dragging a large folder into the application treated the entire folder as a single, indivisible object. Folders are now correctly recursively scanned, and their individual files are extracted and added to the list for proper mathematical bin packing.
 *   **Bug Fix: UI Path Display:** Fixed variable scoping bugs that caused the "Path" column in the ListViews to incorrectly display only the file name or drop the path entirely. 
 *   **Bug Fix: Icon Crash:** Resolved an unhandled `ArgumentException` crash that occurred when `SHGetFileInfo` failed to return a valid icon handle for certain files (e.g., missing files or paths that are too long). Implemented a system fallback icon to prevent crashes.
-<img width="1578" height="476" alt="image" src="https://github.com/user-attachments/assets/6e90dbc9-8f5c-4bcb-b46b-e892d12da5eb" />
+
