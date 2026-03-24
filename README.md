@@ -1,6 +1,6 @@
-Original Discfit 1.1 by David Strenscev - Source code provided.
+Original Discfit 1.1 by David Strenscev - Open source.
 
-Vibecoded to add features and run under Windows 11
+Vibecoded with Googles Antigravity to add features and run under Windows 11
 
 
 <img width="1578" height="476" alt="image" src="https://github.com/user-attachments/assets/6e90dbc9-8f5c-4bcb-b46b-e892d12da5eb" />
