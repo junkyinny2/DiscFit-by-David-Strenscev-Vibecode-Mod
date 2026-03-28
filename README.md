@@ -3,7 +3,7 @@ Original Discfit 1.1 by David Strenscev - Open sourced.
 Vibecoded with Googles Antigravity to add features and run under Windows 11
 
 
-<img width="1578" height="476" alt="image" src="https://github.com/user-attachments/assets/6e90dbc9-8f5c-4bcb-b46b-e892d12da5eb" />
+<img width="1572" height="479" alt="image" src="https://github.com/user-attachments/assets/f0837e7a-3466-4376-8400-a3755563ad8d" />
 
 
 # DiscFit - Feature Log
