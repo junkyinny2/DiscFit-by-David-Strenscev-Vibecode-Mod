@@ -1,0 +1,14 @@
+D:\Downloads\Discfit Files\DiscFit\bin\Release\net8.0-windows\win-x64\Resources\piechart.ico
+D:\Downloads\Discfit Files\DiscFit\obj\Release\net8.0-windows\win-x64\DiscFit.Form1.resources
+D:\Downloads\Discfit Files\DiscFit\obj\Release\net8.0-windows\win-x64\DiscFit.properties.Resources.resources
+D:\Downloads\Discfit Files\DiscFit\obj\Release\net8.0-windows\win-x64\DiscFit.csproj.GenerateResource.cache
+D:\Downloads\Discfit Files\DiscFit\obj\Release\net8.0-windows\win-x64\DiscFit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Discfit Files\DiscFit\obj\Release\net8.0-windows\win-x64\DiscFit.csproj.CoreCompileInputs.cache
+D:\Downloads\Discfit Files\DiscFit\obj\Release\net8.0-windows\win-x64\DiscFit.genruntimeconfig.cache
+D:\Downloads\Discfit Files\DiscFit\bin\Release\net8.0-windows\win-x64\DiscFit1.12.exe
+D:\Downloads\Discfit Files\DiscFit\bin\Release\net8.0-windows\win-x64\DiscFit1.12.deps.json
+D:\Downloads\Discfit Files\DiscFit\bin\Release\net8.0-windows\win-x64\DiscFit1.12.runtimeconfig.json
+D:\Downloads\Discfit Files\DiscFit\bin\Release\net8.0-windows\win-x64\DiscFit1.12.dll
+D:\Downloads\Discfit Files\DiscFit\obj\Release\net8.0-windows\win-x64\DiscFit1.12.dll
+D:\Downloads\Discfit Files\DiscFit\obj\Release\net8.0-windows\win-x64\refint\DiscFit1.12.dll
+D:\Downloads\Discfit Files\DiscFit\obj\Release\net8.0-windows\win-x64\ref\DiscFit1.12.dll

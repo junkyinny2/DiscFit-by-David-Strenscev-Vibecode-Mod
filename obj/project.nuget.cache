@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GWYPyfO98Uw=",
+  "success": true,
+  "projectFilePath": "D:\\VibeCode\\DiscFit\\DiscFit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FBI\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.25\\microsoft.net.illink.tasks.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

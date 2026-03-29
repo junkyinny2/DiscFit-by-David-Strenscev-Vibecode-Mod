@@ -1,0 +1,2 @@
+d:\Downloads\Discfit Files\DiscFit\bin\x86\Release\net8.0-windows\win-x86\publish\Resources\piechart.ico
+d:\Downloads\Discfit Files\DiscFit\bin\x86\Release\net8.0-windows\win-x86\publish\DiscFit1.8.exe

@@ -1,0 +1,2 @@
+D:\VibeCode\DiscFit\bin\x86\Release\net8.0-windows\win-x64\publish\Resources\piechart.ico
+D:\VibeCode\DiscFit\bin\x86\Release\net8.0-windows\win-x64\publish\DiscFit1.13.exe

@@ -1,0 +1,14 @@
+D:\VibeCode\DiscFit\obj\x86\Release\net8.0-windows\win-x64\DiscFit.Form1.resources
+D:\VibeCode\DiscFit\obj\x86\Release\net8.0-windows\win-x64\DiscFit.properties.Resources.resources
+D:\VibeCode\DiscFit\obj\x86\Release\net8.0-windows\win-x64\DiscFit.csproj.GenerateResource.cache
+D:\VibeCode\DiscFit\obj\x86\Release\net8.0-windows\win-x64\DiscFit.GeneratedMSBuildEditorConfig.editorconfig
+D:\VibeCode\DiscFit\obj\x86\Release\net8.0-windows\win-x64\DiscFit.csproj.CoreCompileInputs.cache
+D:\VibeCode\DiscFit\bin\x86\Release\net8.0-windows\win-x64\Resources\piechart.ico
+D:\VibeCode\DiscFit\obj\x86\Release\net8.0-windows\win-x64\DiscFit.genruntimeconfig.cache
+D:\VibeCode\DiscFit\bin\x86\Release\net8.0-windows\win-x64\DiscFit1.13.exe
+D:\VibeCode\DiscFit\bin\x86\Release\net8.0-windows\win-x64\DiscFit1.13.deps.json
+D:\VibeCode\DiscFit\bin\x86\Release\net8.0-windows\win-x64\DiscFit1.13.runtimeconfig.json
+D:\VibeCode\DiscFit\bin\x86\Release\net8.0-windows\win-x64\DiscFit1.13.dll
+D:\VibeCode\DiscFit\obj\x86\Release\net8.0-windows\win-x64\DiscFit1.13.dll
+D:\VibeCode\DiscFit\obj\x86\Release\net8.0-windows\win-x64\refint\DiscFit1.13.dll
+D:\VibeCode\DiscFit\obj\x86\Release\net8.0-windows\win-x64\ref\DiscFit1.13.dll
